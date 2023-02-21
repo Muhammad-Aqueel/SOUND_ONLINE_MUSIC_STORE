@@ -1,0 +1,41 @@
+video, audio{
+    top: 27px;
+    left: 0px;
+    position: absolute;
+    width: 400px;
+    height: 273px;
+}
+
+.window {
+    z-index: 1001;
+    backdrop-filter: brightness(0.5);
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    filter: drop-shadow(black 2px 4px 6px);
+}
+
+.window .window-bar {
+    padding-left: 6px;
+    padding-top: 3px;
+    cursor: move;
+    background-color: #cb19c1;
+    color: white;
+}
+
+.window .window-bar .window-close {
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-color: #ffd5fd;
+    width: 16px;
+    height: 16px;
+    padding-left: 2px;
+    padding-top: 2px;
+}
+
+.window-body {
+    margin: 1em;
+}
