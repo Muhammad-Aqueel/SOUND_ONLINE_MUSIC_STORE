@@ -17,8 +17,8 @@
 
 ### APPLICATION GUIDE
 
-- 1. Database SOUND.SQL must required to run.
-- 2. Email: admin@admin.com
-- 3. Admin Password: 1234
-- 4. Add Artists, Albums and Songs to view web application layout properly
-- 5. Register as user to rate and review songs
+- Database SOUND.SQL must required to run.
+- Email: admin@admin.com
+- Admin Password: 1234
+- Add Artists, Albums and Songs to view web application layout properly
+- Register as user to rate and review songs
