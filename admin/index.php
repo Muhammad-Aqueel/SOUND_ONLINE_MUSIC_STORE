@@ -1,3 +1,3 @@
 <?php
-header("../admin.php");
+header("location:../admin.php");
 ?>
