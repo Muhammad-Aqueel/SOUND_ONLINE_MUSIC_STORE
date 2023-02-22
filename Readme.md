@@ -18,6 +18,7 @@
 ### APPLICATION GUIDE
 
 - Database SOUND.SQL must required to run.
+- To access admin panel type '/admin' after URL/Domian
 - Email: admin@admin.com
 - Admin Password: 1234
 - Add Artists, Albums and Songs to view web application layout properly
