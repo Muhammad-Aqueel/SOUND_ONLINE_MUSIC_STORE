@@ -145,7 +145,7 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12">
                             <div class="ms_banner_img">
-                                <img src="images/banner.png" alt="" class="img-fluid">
+                                <img src="images/banner.png" alt="" class="img-fluid" style="opacity:0.5;">
                             </div>
                             <div class="ms_banner_text">
                                 <h1>This Month’s</h1>
